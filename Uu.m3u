@@ -1,1 +1,5 @@
+
+﻿#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml"
+#EXTINF:-1 group-title="Brasil: cinema em português" tvg-logo="https://imgur.com/TRhivEt.png" ,Adrenalina Freezone
+
 http://14225021914.com/get.php?username=961154919&password=f302346g&type=m3u_plus
